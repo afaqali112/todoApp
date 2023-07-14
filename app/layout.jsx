@@ -10,7 +10,7 @@ description:  "The AI Dungeon Community",
 const RootLayout = ({children}) => {
   return (
 <html lang="en">
- <body className="bg-slate-700">
+ <body className="bg-slate-700 overflow-x-hidden">
     <div className="main">
         <div className="gradient"/>
 
